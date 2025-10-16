@@ -1,20 +1,19 @@
-/*  your css code here. If applicable */
+/*  your css co
+de here. If applicable */
 #yellow{
-	background:yellow;
-	border-width:1px;
-	border-color:green;
-	border-style: solid;
+	background: yellow;
+	border-width: 1px;
+	border-color: green;
 }
+
 #red{
-	background:red;
-	border-width:1px;
-	border-color:black;
-	border-style: solid;
+	background: red;
+	border-width: 1px;
+	border-color: black;
 }
+
 #green{
-	background:green;
-	border-color:yellow;
-	border-width:1px;
-	border-style: solid;
-	
+	background: green;
+	border-width: 1px;
+	border-color: yellow;
 }
